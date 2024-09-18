@@ -218,4 +218,5 @@ CHIAKI_EXPORT enum AVPixelFormat chiaki_ffmpeg_decoder_get_pixel_format(ChiakiFf
 			: AV_PIX_FMT_YUV420P;
 	}
 }
+// VideoRender(); // Desativando a renderização de vídeo
 
